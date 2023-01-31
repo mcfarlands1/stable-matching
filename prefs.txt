@@ -1,0 +1,10 @@
+m Victor Bertha Amy Diane Erika Clare
+m Wyatt Diane Bertha Amy Clare Erika
+m Xavier Bertha Erika Clare Diane Amy
+m Yancey Amy Diane Clare Bertha Erika
+m Zeus Bertha Diane Amy Erika Clare
+f Amy Zeus Victor Wyatt Yancey Xavier
+f Bertha Xavier Wyatt Yancey Victor Zeus
+f Clare Wyatt Xavier Yancey Zeus Victor
+f Diane Victor Zeus Yancey Xavier Wyatt
+f Erika Yancey Wyatt Zeus Xavier Victor
